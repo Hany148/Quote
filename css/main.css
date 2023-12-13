@@ -1,0 +1,37 @@
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bolder;
+}
+
+
+
+p {
+    font-size: 35px;
+}
+
+
+.my-btn 
+{
+    background-color: blue;
+    border: 1px black solid;
+    padding-inline: 80px !important;
+    color: white;
+    transition: 0.5 background-color;
+}
+
+.my-btn:hover
+{
+    background-color: green;
+}
+
+
+
+img 
+{
+    width: 100px ;
+
+}
+
